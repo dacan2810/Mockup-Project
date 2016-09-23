@@ -26,5 +26,11 @@ namespace Mockup_Project.Controllers
 
             return View();
         }
+
+        public ActionResult Dashboard()
+        {
+            return View();
+        }
+
     }
 }

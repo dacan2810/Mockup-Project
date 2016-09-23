@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>@ViewBag.Title</title>
     @Styles.Render("~/Header-CSS")
+    @RenderSection("CustomCSS", required: false)
 </head>
 <body class="md-skin pace-done fixed-nav fixed-nav-basic fixed-sidebar">
 
@@ -295,6 +296,6 @@
 
     @Scripts.Render("~/Mainly-scripts")
     @Scripts.Render("~/Custom-and-plugin-javascript")
-    @RenderSection("Custom-scripts", required: false)
+    @RenderSection("CustomJS", required: false)
 </body>
 </html>

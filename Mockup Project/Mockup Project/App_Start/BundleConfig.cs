@@ -51,6 +51,8 @@ namespace Mockup_Project
                       "~/Content/js/plugins/flot/jquery.flot.tooltip.min.js",
                       "~/Content/js/plugins/flot/jquery.flot.spline.js",
                       "~/Content/js/plugins/flot/jquery.flot.resize.js",
+                      "~/Content/js/plugins/flot/jquery.flot.symbol.js",
+                      "~/Content/js/plugins/flot/jquery.flot.time.js",
                       "~/Content/js/plugins/flot/jquery.flot.pie.js"));
             //Peity
             bundles.Add(new ScriptBundle("~/Peity").Include(
@@ -75,6 +77,9 @@ namespace Mockup_Project
             //Toastr
             bundles.Add(new ScriptBundle("~/Toastr").Include(
                       "~/Content/js/plugins/toastr/toastr.min.js"));
+            //EasyPIE
+            bundles.Add(new ScriptBundle("~/EasyPIE").Include(
+                      "~/Content/js/plugins/easypiechart/jquery.easypiechart.js"));
 
         }
     }
