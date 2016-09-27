@@ -80,6 +80,12 @@ namespace Mockup_Project
             //EasyPIE
             bundles.Add(new ScriptBundle("~/EasyPIE").Include(
                       "~/Content/js/plugins/easypiechart/jquery.easypiechart.js"));
+            //DataTable CSS
+            bundles.Add(new StyleBundle("~/DataTable-CSS").Include(
+                      "~/Content/css/plugins/dataTables/datatables.min.css"));
+            //DataTable JS
+            bundles.Add(new ScriptBundle("~/DataTable-JS").Include(
+                      "~/Content/js/plugins/dataTables/datatables.min.js"));
 
         }
     }

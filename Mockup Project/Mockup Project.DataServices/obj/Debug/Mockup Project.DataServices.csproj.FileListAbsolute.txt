@@ -1,0 +1,10 @@
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\bin\Debug\Mockup Project.DataServices.dll.config
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\bin\Debug\Mockup Project.DataServices.dll
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\bin\Debug\Mockup Project.DataServices.pdb
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\bin\Debug\EntityFramework.dll
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\bin\Debug\EntityFramework.xml
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\obj\Debug\Mockup Project.DataServices.dll
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\obj\Debug\Mockup Project.DataServices.pdb
+C:\Users\andnd\Desktop\Mockup-Project\Mockup Project\Mockup Project.DataServices\obj\Debug\Mockup Project.DataServices.csprojResolveAssemblyReference.cache
